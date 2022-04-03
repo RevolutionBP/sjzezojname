@@ -4,7 +4,7 @@
 // @version      1.0.1
 // @description  light up the sky!
 // @author       RevolutionBP
-// @match        https://sjzezoj.com/*
+// @match        https://www.sjzezoj.com/*
 // @icon         https://ftp.bmp.ovh/imgs/2021/12/81ce0eb68e885de0.jpg
 // @grant        none
 // ==/UserScript==
