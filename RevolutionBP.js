@@ -45,10 +45,10 @@
     $('.uoj-honor').each(function(){$(this).text().includes('2021xiefengyu')&&$(this).html('Ignotus')})
     $('.uoj-username').each(function(){$(this).text().includes('Ignotus') && $(this).css('color', '#000000')})
     $('.uoj-honor').each(function(){$(this).text().includes('Ignotus') && $(this).css('color', '#000000')})
-    $('.uoj-username').each(function(){$(this).text().includes('Ignotus')&&$(this).html('I</span><span class=\"uoj-username\" style=\"color:rgb(255, 0, 0)\">gnotus'); })
-    $('.uoj-honor').each(function(){$(this).text().includes('Ignotus')&&$(this).html('I</span><span class=\"uoj-username\" style=\"color:rgb(255, 0, 0)\">gnotus'); })
-    //$('.uoj-username').each(function(){$(this).text().includes('Ignotus')&&$(this).css('color','#a938f1')});
-    //$('.uoj-honor').each(function(){$(this).text().includes('Ignotus')&&$(this).css('color','#a938f1')});
+    
+    $('.uoj-username').each(function(){$(this).text().includes('Ignotus')&&$(this).css('color','#a938f1')});
+    $('.uoj-honor').each(function(){$(this).text().includes('Ignotus')&&$(this).css('color','#a938f1')});
+    
     $('.uoj-username').each(function(){$(this).text().includes('2021guoyixiao')&&$(this).html('Fideow')})
     $('.uoj-honor').each(function(){$(this).text().includes('2021guoyixiao')&&$(this).html('Fideow')})
 
