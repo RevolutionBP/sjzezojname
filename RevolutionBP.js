@@ -14,8 +14,8 @@
     $('.uoj-username').each(function(){$(this).text().includes('2021lijiaxi')&&$(this).html('RevolutionBP'); })
     $('.uoj-honor').each(function(){$(this).text().includes('2021lijiaxi')&&$(this).html('RevolutionBP'); })
 
-    $('.uoj-username').each(function(){$(this).text().includes('RevolutionBP')&&$(this).css('color', '#f5a7b8') })
-    $('.uoj-honor').each(function(){$(this).text().includes('RevolutionBP')&&$(this).css('color', '#f5a7b8')})
+    $('.uoj-username').each(function(){$(this).text().includes('RevolutionBP')&&$(this).css('color', '#f6aeb8') })
+    $('.uoj-honor').each(function(){$(this).text().includes('RevolutionBP')&&$(this).css('color', '#f6aeb8')})
 
     $('.uoj-username').each(function(){$(this).text().includes('teacherli')&&$(this).html('lj')})
     $('.uoj-username').each(function(){$(this).text().includes('lj')&&$(this).css('color', '#635794')})
